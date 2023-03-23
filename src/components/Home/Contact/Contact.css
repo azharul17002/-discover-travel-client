@@ -1,0 +1,13 @@
+.card:hover {
+  background-color: #d4d3cf;
+}
+.card-bg {
+  background-color: #d4d3cf;
+}
+.text-color {
+  color: #344e41;
+}
+.card-heading {
+  font-size: 24px;
+  font-weight: bold;
+}
